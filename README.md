@@ -3,7 +3,7 @@
 
 ## Academic
 
-## FCT PhD Research Scholarship (2020-2024)
+### FCT PhD Research Scholarship (2020-2024)
 
 Full PhD scholarship at University of Coimbra and CITTA for research on Artificial Intelligence in Transport Infrastructure Management.
 
